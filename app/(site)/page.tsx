@@ -7,7 +7,7 @@ export default async function Home() {
   return (
     <div className="max-w-5xl mx-auto">
       <h1 className="text-7xl font-extrabold py-20">
-        Hello! I'm{" "}
+        Hello! I&apos;m{" "}
         <span className="bg-gradient-to-r from-stone-300 to-amber-200 bg-clip-text text-transparent">
           Josh H.
         </span>

@@ -20,7 +20,7 @@ export default function RootLayout({
       <body className={inter.className}>
         <header>
           <Link href="/" className="">
-            Josh H
+            JoshH.
           </Link>
         </header>
         <main>{children}</main>
